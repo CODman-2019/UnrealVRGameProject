@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\esamm\\documents\\github\\unrealvrgameproject\\vrproject\\source\\vrproject\\vrprojectgamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\esamm\\documents\\github\\unrealvrgameproject\\vrproject\\intermediate\\build\\win64\\vrprojecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\esamm\\documents\\github\\unrealvrgameproject\\vrproject\\intermediate\\build\\win64\\unrealeditor\\development\\vrproject\\definitions.vrproject.h",
+            "c:\\users\\esamm\\documents\\github\\unrealvrgameproject\\vrproject\\source\\vrproject\\vrprojectgamemodebase.h",
+            "c:\\users\\esamm\\desktop\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\users\\esamm\\desktop\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\users\\esamm\\desktop\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\users\\esamm\\desktop\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "c:\\users\\esamm\\documents\\github\\unrealvrgameproject\\vrproject\\intermediate\\build\\win64\\unrealeditor\\inc\\vrproject\\vrprojectgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

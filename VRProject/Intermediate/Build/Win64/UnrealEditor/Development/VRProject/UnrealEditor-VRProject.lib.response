@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-VRProject.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\esamm\Documents\GitHub\UnrealVRGameProject\VRProject\Intermediate\Build\Win64\VRProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\esamm\Documents\GitHub\UnrealVRGameProject\VRProject\Intermediate\Build\Win64\UnrealEditor\Development\VRProject\VRProject.cpp.obj"
+"C:\Users\esamm\Documents\GitHub\UnrealVRGameProject\VRProject\Intermediate\Build\Win64\UnrealEditor\Development\VRProject\VRProjectGameModeBase.cpp.obj"
+"C:\Users\esamm\Documents\GitHub\UnrealVRGameProject\VRProject\Intermediate\Build\Win64\UnrealEditor\Development\VRProject\VRProject.init.gen.cpp.obj"
+"C:\Users\esamm\Documents\GitHub\UnrealVRGameProject\VRProject\Intermediate\Build\Win64\UnrealEditor\Development\VRProject\VRProjectGameModeBase.gen.cpp.obj"
+"C:\Users\esamm\Documents\GitHub\UnrealVRGameProject\VRProject\Intermediate\Build\Win64\UnrealEditor\Development\VRProject\Default.rc2.res"
+/OUT:"C:\Users\esamm\Documents\GitHub\UnrealVRGameProject\VRProject\Intermediate\Build\Win64\UnrealEditor\Development\VRProject\UnrealEditor-VRProject.lib"

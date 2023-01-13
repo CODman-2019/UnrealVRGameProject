@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "VRProject",
+			"Path": "C:\\Users\\esamm\\Documents\\GitHub\\UnrealVRGameProject\\VRProject\\Source\\VRProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "VRProjectEditor",
+			"Path": "C:\\Users\\esamm\\Documents\\GitHub\\UnrealVRGameProject\\VRProject\\Source\\VRProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
